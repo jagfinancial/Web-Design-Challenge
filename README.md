@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
@@ -145,3 +146,6 @@ OpenWeatherMap.org. (2012). Сurrent weather and forecast. Retrieved from [https
 - - -
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+=======
+# Web-Design-Challenge
+>>>>>>> 62dd40168f9b4cd5c57f0e6c9412301782aa4d08
