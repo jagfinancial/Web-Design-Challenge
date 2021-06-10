@@ -1,6 +1,6 @@
 Web Visualization Dashboard (Latitude)
 
-**Click link to access website: https://jagfinancial.github.io/Web-Design-Challenge/**
+**Click link to access website: https://jagfinancial.github.io/**
 
 ## Background
 
